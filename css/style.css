@@ -12,8 +12,10 @@ html, body{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
     
 }
+
 .project{
     width: 23%; 
     cursor: pointer;
